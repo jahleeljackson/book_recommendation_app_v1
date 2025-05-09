@@ -11,6 +11,8 @@ This is a web application running on a Flask server which returns 5-10 book reco
 
 ### Note:
 To see and download the actual code and data, click [here](https://drive.google.com/drive/folders/1b4ItnPy-4sOIAQugcUuAF8zEX2HIcpO0?usp=drive_link) to go the project directory in Google Drive (project too large for GitHub).
+
+To view a demo of the project, click [here](https://youtu.be/vPV-n0q69PM)
 ## Dependencies
 Ensure that the python and pip is already installed. After cloning the repository, run the *main.py* and navigate to http://127.0.0.1:5000.
 
